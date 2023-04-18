@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Blog de Livros</title>
+</head>
+<body>
+    <h1>Livros que Li Este Ano</h1>
+
+    <h2>Livro 1</h2>
+    <h3>Título do Livro: "Aprendendo SQL"</h3>
+    <p>Autor: Alan Beaulieu</p>
+    <p>Nota: 4/5</p>
+    <p>Descrição: Dominando os Fundamentos de SQL</p>
+
+    <h2>Livro 2</h2>
+    <h3>Título do Livro: "Ruby"</h3>
+    <p>Autor: Lucas Sousa</p>
+    <p>Nota: 3/5</p>
+    <p>Descrição: Aprenda a Programar na Linguagem Mais Divertida</p>
+
+    <!-- Adicione mais livros aqui -->
+
+</body>
+</html>
